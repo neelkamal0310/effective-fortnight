@@ -31,7 +31,7 @@ exit()
 
 ## inside an ordered list
 
-1. second time:
+1. first time:
 
    ```python,linenos
    for _ in range(10):
